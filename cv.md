@@ -1,6 +1,6 @@
 ## Artem Karaman
 
-#Contact information:
+# Contact information:
 * email: 	net552011@gmail.com
 * skype: 	net552011@gmail.com
 * Telegram:	@Artem_Karaman
@@ -22,7 +22,7 @@ I am a Software Engineer at EPAM Systems. I am working on cross-platform mobile 
 
 ## Code examples
 
-[Stocks - test project](https://github.com/namarakM/Stocks/tree/master/Stocks)
+[Stocks - test project](https://github.com/namarakM/Stocks)
 
 ## Experience
 
