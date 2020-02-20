@@ -1,6 +1,6 @@
-## Artem Karaman
+# Artem Karaman
 
-# Contact information:
+## Contact information:
 * email: 	net552011@gmail.com
 * skype: 	net552011@gmail.com
 * Telegram:	@Artem_Karaman
@@ -32,9 +32,9 @@ I am a Software Engineer at EPAM Systems. I am working on cross-platform mobile 
 
 ## Education
 
-* Degree - Master
-* Department - Missile Systems and Astronautics 
-* Graduation year - 2015
+Degree | Department | Graduation year
+------ | ---------- | --------------
+Master | Missile Systems and Astronautics | 2015
 
 ## English
 
