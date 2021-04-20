@@ -7,10 +7,11 @@
 
 ## About me
 
-I am a Software Engineer at EPAM Systems. I am working on cross-platform mobile solutions using Xamarin framework. During my work I have been written several apps for ios and android. I like mobile development and all what related to it. I have more than 3+ years in mobile apps development using Xamarin.Native.
+I am a game programmer at NX studio. I am working on cross-platform mobile game using Unity game engine.
 
 ## Skills
 
+* Unity
 * Xamarin.Android
 * Xamarin.iOS
 * C#
@@ -26,7 +27,8 @@ I am a Software Engineer at EPAM Systems. I am working on cross-platform mobile 
 
 ## Experience
 
-* From November 2018 till now - Epam Systems
+* From February 2021 till now - NX studio
+* From November 2018 till August 2020 - Epam Systems
 * From January 2017 till November 2018 - Luxoft
 * From May 2015 till December 2015 - Freelance
 
